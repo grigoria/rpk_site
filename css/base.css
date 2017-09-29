@@ -589,6 +589,7 @@ SECTION PHOTOGRAPHY
   margin-bottom: 1%;
   overflow: hidden;
   position: relative;
+  display: none;
 }
 
 .photo-listing li a {
